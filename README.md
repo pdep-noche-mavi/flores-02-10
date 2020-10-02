@@ -13,11 +13,6 @@ De las flores se conoce su edad (en meses) y su precio base. Su precio se calcul
 
 * Permitir calcular el precio para las flores del vivero.
 
-### Diagrama Parte 0
-#### Clase Flor
-<img src="diag0.png">
-
----
 <br><br><br><br>
 
 ### Parte 1 - Linduras
