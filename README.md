@@ -29,7 +29,7 @@ El vivero también puede agregar flores , y pasar un mes (lo que agrega un mes d
 
 ### Parte 2 - Suculentas
 
-Además empezaron a vender suculentas. De ellas se conoce su diámetro , su altura y el valor de la maceta que la contiene. Su precio se calcula como su diámetro por su altura más el valor de la maceta. Las suculentas son lindas si su maceta vale más de $100. 
+Además empezaron a vender suculentas. De ellas se conoce su diámetro , su altura y el valor de la maceta que la contiene. Su precio se calcula como su diámetro por su altura más el valor de la maceta. Las suculentas son lindas si su maceta vale más de $100. No llevan registro de su edad en meses pero al pasar un mes, su maceta pierde 5$ de valor.
 
 ### Parte 3 - Jacinta
 
